@@ -25,16 +25,11 @@ My passion lies at the intersection of **Chemical Sciences and Computing**. I am
 
 ---
 
-### 📈 Achievements & Recognition
-- 🎖️ **CSSS Scholar:** Awarded the *Central Sector Scheme of Scholarship for College and University Students* by the Department of Higher Education, Ministry of Education, Government of India.
-- 🎖️ **NMMS Scholar:** Awarded the *National Means-cum-Merit Scholarship* by the Department of School Education & Literacy, Ministry of Education, Government of India.
-
----
-
 ### 🤝 Let's Connect!
 I am always open to **academic collaborations, open-source scientific projects, internships, and knowledge exchange.**
 
 - 💼 **LinkedIn:** (https://www.linkedin.com/in/shubham-maity-5b3478407?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- Email : shubham.maity.in@gmail.com
 
 
 ---
