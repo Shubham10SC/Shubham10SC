@@ -1,6 +1,6 @@
 # Hi there, I'm Shubham Maity! 👋
 
-### 🔬 Science Undergraduate | 🐍 Python & AI Enthusiast | 🧪 Computational Chemistry Aspirant
+### 🔬 Science Undergraduate | Python & AI Enthusiast | 🧪 Computational Chemistry Aspirant
 
 I am a disciplined and driven science undergraduate pursuing my **B.Sc. in Chemistry (Major)** with Physics and Mathematics (Minor) at the historic **Serampore College** (University of Calcutta). 
 
@@ -26,8 +26,16 @@ My passion lies at the intersection of **Chemical Sciences and Computing**. I am
 ---
 
 ### 📈 Achievements & Recognition
-- 🎖️ **NMMS Scholar:** Awarded the *National Means-cum-Merit Scholarship* by the Ministry of Education, Government of India.
-- 🎓 **Academic Consistency:** Scored 88% in Class 10 and 84.6% in Class 12 (WBCHSE).
+- 🎖️ **CSSS Scholar:** Awarded the *Central Sector Scheme of Scholarship for College and University Students* by the Department of Higher Education, Ministry of Education, Government of India.
+- 🎖️ **NMMS Scholar:** Awarded the *National Means-cum-Merit Scholarship* by the Department of School Education & Literacy, Ministry of Education, Government of India.
+
+---
+
+### 🤝 Let's Connect!
+I am always open to **academic collaborations, open-source scientific projects, internships, and knowledge exchange.**
+
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/shubham-maity-5b3478407?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
 
 ---
 ⚡ *“Believer in the power of knowledge, discipline, and continuous learning.”*
